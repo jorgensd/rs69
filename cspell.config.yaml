@@ -1,0 +1,11 @@
+dictionaryDefinitions:
+  - name: rs69
+    path: .cspell_dict.txt
+    addWords: true
+dictionaries:
+  - rs69
+ignoreWords: [
+    tableofcontents,
+    ipynb,
+    oneline
+  ]
