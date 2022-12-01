@@ -1,0 +1,6 @@
+name: "research_project_1"
+channels:
+  - conda-forge
+dependencies:
+  - jupyter-book
+  - python=3.10
