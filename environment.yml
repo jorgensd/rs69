@@ -4,5 +4,5 @@ channels:
 dependencies:
   - jupyter-book
   - python=3.10
-  - fenics-dolfin
+  - fenics-dolfinx
   
