@@ -2,7 +2,6 @@ name: "research_project_1"
 channels:
   - conda-forge
 dependencies:
+  - fenics-dolfin
   - jupyter-book
   - python=3.10
-  - fenics-dolfin
-  
